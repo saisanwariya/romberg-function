@@ -1,4 +1,4 @@
-# Romberg Integration MATLAB Program
+# Romberg Integration
 
 ## Overview
 
